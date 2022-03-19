@@ -1,0 +1,128 @@
+
+
+{
+  "products": [
+    {
+      
+        "_id": "dress1",
+        "image": "/images/ma.jpg",
+        "title": "C# 8.0 and .NET Core 3.0 – Modern Cross-Platform Development",
+        "description": "For this fourth edition, we went through the whole book and brought everything up-to-date for C# 8.0 and .NET Core 3.0. This edition also has two completely new chapters. The first new chapter is about Content Management Systems for enabling non-technical people to manage their own content on a website without developers needing to be involved. We look at a great CMS for .NET Core named Piranha CMS that is simple to learn, and fast and fun to develop for.",
+        
+        "price": 29.9
+      },
+      {
+        "_id": "dress2",
+        "image": "/images/mu.jpg",
+        "title": "Murach's Java Programming (5th Edition)",
+        "description": "This is the 5th edition of Murach's classic Java book that's trained thousands of developers in the last 15 years. Now fully updated to Java 9, this book helps any programmer learn Java faster and better than ever before:It's the one Java book that presents object-oriented features like inheritance, interfaces, and polymorphism in a way that's both understandable and useful in the real world,It offers new coverage of JavaFX, the date/time API, lambdas, and working with SQLite databases",
+        "availableSizes":["X", "L", "XL", "XXL"] ,
+        "price": 18.9
+      },
+      {
+        "_id": "dress3",
+        "image": "images/im.jpg",
+        "title": "Python Programming Fundamentals. ",
+        "description": "This easy-to-follow and classroom-tested textbook guides the reader through the fundamentals of programming with Python, an accessible language which can be learned incrementally. Features: incudes numerous examples and practice exercises throughout the text, with additional exercises, solutions and review questions at the end of each chapter;",
+        
+        "price": 14.9
+      },
+      {
+        "_id": "dress4",
+        "image": "images/math.jpg",
+        "title": "Precalculus Functions And Graphs custom edition",
+        "description": " Functions and Graphs, Fourth Edition gives readers the essential strategies they need to make the transition to calculus. Along the way, they see how the algebra connects to their future calculus courses, with tools like Foreshadowing Calculus and Concepts of Calculus. The author's emphasis on problem solving and critical thinking",
+        
+        "price": 25.9
+      },
+      {
+        "_id": "dress5",
+        "image": "/images/jp.jpg",
+        "title": "Starting Out With Visual C# 5th edition",
+        "description": "Starting Out With Visual C# is an ideal introductory Visual C# text for students with no prior programming experience. Students who are new to programming will appreciate the clear, down-to-earth explanations and the detailed walk-throughs that are provided by the hands-on tutorials. Gaddis’s hallmark, step-by-step instructions are supported by a GUI-based approach that motivates students as they learn to create GUI-based, event-driven, Visual C# applications. Topics are examined progressively in each chapter, with objects taught before classes",
+        
+        "price": 10.9
+      },
+      {
+        "_id": "dress6",
+        "image": "/images/my.jpg",
+        "title": "Murach's MySQL",
+        "description": "MySQL features that take you to new level, such as summary queries, subqueries, functions, views, transactions, stored procedures, triggers, and security. It shows how to take advantage of newer MySQL features such as window functions, Common Table Expressions (CTE), and roles for database security. It shows how to design a database, including how to use MySQL Workbench to create and implement the design. It even presents a starting set of skills for a database administrator (DBA) if you're interested in that career path or if you need to be your own DBA.",
+        
+        "price": 49.9
+      },
+      {
+        "_id": "dress7",
+        "image": "images/smid.jpg",
+        "title": "CNC Programming Techniques",
+        "description": "Written by the author of the bestselling CNC Programming Handbook and the recent release Fanuc CNC Custom Macros, this practical and very useful resource covers several programming subjects, including how to program cams and tapered end mills, that are virtually impossible to find anywhere. Other, more common, subjects, such as cutter radius offset and thread milling are covered in great depth.",
+       
+        "price": 25.9
+      },
+      {
+        "_id": "dress8",
+        "image": "/images/ts.jpg",
+        "title": "Software Engineering",
+        "description": "Essentials of Software Engineering, Fourth Edition provides students with a systematic engineering approach to software engineering principles and methodologies. Comprehensive, yet concise, the Fourth Edition includes new information on areas of high interest to computer scientists, including Big Data and developing in the cloud. In-depth coverage of key issues, combined with a strong focus on software quality, makes Essentials of Software Engineering, Fourth Edition the perfect text for students entering the fast-growing and lucrative field of software development. The text includes thorough overviews of programming concepts, system analysis and design, principles of software engineering, development and support processes, methodologies, software testing and quality, and product management, while incorporating real-world examples throughout.",
+        
+        "price": 10.9
+      },
+      {
+        "_id": "dress9",
+        "image": "/images/va.jpg",
+        "title": "Starting out with Java",
+        "description": "Starting Out with Java: From Control Structures through Data Structures provides a step-by-step introduction to programming in Java. This text is designed to be used in a 2 or 3 semester sequence and covers everything from the fundamentals of Java programming to algorithms and data structures. As with all Gaddis texts, every chapter contains clear and easy-to-read code listings, concise and practical real-world examples, and an abundance of exercises. ",
+       
+        "price": 49.9
+      },
+      {
+        "_id": "dress10",
+        "image": "/images/sh.jpg",
+        "title": "How Do I Do That In Photoshop",
+        "description": "Scott Kelby, the world’s #1 best-selling photography technique books author, is here with an entirely new concept in Photoshop books—one that’s designed from the ground up to get you straight to whatever it is you need to do in Photoshop right now, get your answer fast, and get you back to editing your images in Photoshop.",
+        
+        "price": 49.9
+      },
+      {
+        "_id": "dress11",
+        "image": "/images/c++.jpg",
+        "title": "Starting Out With C++",
+        "description": "Starting Out with C++: From Control Structures through Objects covers control structures, functions, arrays,and pointers before objects and classes in Tony Gaddis’s hallmark accessible, step-by-step presentation. His books help beginning students understand the important details necessary to become skilled programmers at an introductory level.",
+        
+        "price": 10.9
+      },
+      {
+        "_id": "dress12",
+        "image": "/images/ba.jpg",
+        "title": "C# Programming",
+        "description": "The C# programming language is often developers' primary choice for creating a wide range of applications for desktop, cloud, and mobile. In nearly two decades of its existence, C# has evolved from a general-purpose, object-oriented language to a multi-paradigm language with impressive features.This book will take you through C# from the ground up in a step-by-step manner. You'll start with the building blocks of C#, which include basic data types, variables, strings, arrays, operators, control statements, and loops. Once comfortable with the basics, you'll then progress to learning object-oriented programming concepts such as classes and structures, objects, interfaces, and abstraction. Generics, functional programming, dynamic, and asynchronous programming are covered in detail. ",
+       
+        "price": 49.9
+      },
+      {
+        "_id": "dress13",
+        "image": "/images/do.jpg",
+        "title": "JavaScript & JQuery",
+        "description": "Basic programming concepts - assuming no prior knowledge of programming beyond an ability to create a web page using HTML & CSS Core elements of the JavaScript language - so you can learn how to write your own scripts from scratch.jQuery - which will allow you to simplify the process of writing scripts.",
+       
+        "price": 49.9
+      },
+      {
+        "_id": "dress15",
+        "image": "/images/ca.jpg",
+        "title": "C# Detailed Approach To Coding",
+        "description": " The second book in the Step-By-Step C# Series delves further into practical C# programming. We believe the best way to learn  programming is through practise and practical application. For this reason, this book is crammed full of examples and code descriptions.",
+
+        
+        "price": 18.9
+      },
+      {
+        "_id": "dress16",
+        "image": "/images/c.jpg",
+        "title": "C# Advanced Features & Technique",
+        "description": "This third instalment in the Step-By-Step C# Series is geared towards seasoned developers and novices alike. This guide explores slightly more advanced C# techniques, while being presented in our popular, easy to understand format. The topics in this book will prove invaluable to anyone currently using C#, no matter your skill level. With numerous examples and step by step descriptions, you will be able to master this wonderful language in no time.",
+       
+        "price": 10.9
+      }
+    ]
+  }
